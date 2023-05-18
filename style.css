@@ -1,0 +1,44 @@
+img{
+    max-width: 100%;
+}
+nav ul li a{
+    list-style: none;
+}
+.header a img{
+    height: 72px;
+}
+.menu ul li {
+  padding-right: 15px;
+}
+.banner-img img{
+    height: 500px;
+}
+.box{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    margin: auto;
+    background:#f4f4f7;
+
+}
+.box h3{
+ display: inline-block;  
+padding-top: 37px;
+}
+.pricing-section .btn-div .btn{
+  border-color: blue;
+  color: blue;
+}
+p,small{
+    font-size: 20px;
+    color: #808080;
+}
+.pricing-table-item{
+    box-shadow:0px -1px 6px rgba(13, 110, 253,0.5);
+}
+.card img{
+    width: 154px;
+    height: auto;
+    margin-top: -79px;
+    margin-left: 18px;
+}
